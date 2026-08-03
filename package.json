@@ -1,0 +1,14 @@
+{
+  "name": "crescendo-payments-booking",
+  "version": "1.0.0",
+  "description": "Payments + booking backend (Node port). Crescendo Academy.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^4.22.2",
+    "mysql2": "^3.9.7"
+  }
+}
